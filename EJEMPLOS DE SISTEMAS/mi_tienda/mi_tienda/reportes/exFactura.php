@@ -111,4 +111,4 @@ echo "No tiene permiso para visualizar el reporte";
 }
 
 ob_end_flush();
-  ?>
+
