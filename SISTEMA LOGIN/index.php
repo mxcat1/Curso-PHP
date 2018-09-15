@@ -59,7 +59,13 @@
 <!---->
 <!--</form>-->
 <?php
+session_start();
+if (isset($_SESSION["logeo"])){
+    echo "<div id=\"res\">".$_SESSION["logeo"]."</div>";
+    echo '<button id="btncerrar">CERRAR </button>';
+}else{
     include ("form_login.php");
+}
 ?>
 </body>
 </html>

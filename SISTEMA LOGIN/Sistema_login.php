@@ -12,5 +12,10 @@ if ($usuario=="" || $pass==""){
     echo "Nombres de ususario o contraseña incorrectos";
 }else{
     $logeo = new login($usuario,$pass);
-    echo $logeo->verificar_datos();
+    $verificacion = $logeo->verificar_datos();
+    if (isset($verificacion)){
+        session_start();
+        $_SESSION['logeo']=$verificacion;
+    }
+    echo $verificacion;
 }

@@ -34,7 +34,7 @@ class login extends conexion_bd {
         $sentencia_sql->fetch();//para q bind_result funcione se debe ejecutar esta linea por cada fila de datos q tenga tu consulta
         if ($resultado>0){
 //            echo "Logueado Correctamente".$resultado.$r1.$r2.$r3;
-            return '1';
+            return $r2;
         }else{
 //            echo "DATOS INCORRECTOS".$resultado;
             return '0';
