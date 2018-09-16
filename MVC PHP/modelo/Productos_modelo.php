@@ -5,7 +5,7 @@
  * Date: 15/09/2018
  * Time: 14:02
  */
-require_once ("ConeccionBD.php");
+require_once ("config/ConeccionBD.php");
 class Productos_modelo extends ConexionBD {
 
     private $productos;
@@ -32,6 +32,7 @@ class Productos_modelo extends ConexionBD {
         }catch (Exception $e){
             $this->productos="ERROR".$e->getMessage()." EN LINEA ".$e->getLine();
         }
+        $this->desconectar();
         return $this->productos;
     }
 

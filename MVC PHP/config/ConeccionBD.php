@@ -7,7 +7,7 @@
  */
 
 //LLAMADA AL ARCHIVO CONFIG  PARA LA CONECCION A ALOS DATOS
-require_once("../config/config.php");
+require_once("config/config.php");
 
 class ConexionBD{
 
