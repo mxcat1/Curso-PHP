@@ -3,20 +3,20 @@
 	{
 		private $servidor;
 		private $usuario;
-		private $contraseña;
+		private $contra;
 		private $basedatos;
 		public  $conexion;
 
 		public function __construct(){
-			$this->servidor   = "127.0.0.1";
+			$this->servidor   = "localhost";
 			$this->usuario	  = "root";
-			$this->contraseña = "root";
+			$this->contraseña = "XXmxcatXX";
 			$this->basedatos  = "biblioteca";
 
 		}
 
 		function conectar(){
-			$this->conexion= new mysqli($this->servidor,$this->usuario,$this->contraseña,$this->basedatos);
+			$this->conexion= new mysqli($this->servidor,$this->usuario,$this->contra,$this->basedatos);
 		}
 
 		function cerrar(){
