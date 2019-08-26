@@ -11,7 +11,7 @@ function init(){
 
    $("#imagenmuestra").hide();
 //mostramos los permisos
-$.post("../ajax/usuario.php?op=permisos&id=", function(r){
+$.post("../ajax/Usuario.php?op=permisos&id=", function(r){
 	$("#permisos").html(r);
 });
 }
@@ -66,7 +66,7 @@ function listar(){
 		],
 		"ajax":
 		{
-			url:'../ajax/usuario.php?op=listar',
+			url:'../ajax/Usuario.php?op=listar',
 			type: "get",
 			dataType : "json",
 			error:function(e){
@@ -85,7 +85,7 @@ function guardaryeditar(e){
      var formData=new FormData($("#formulario")[0]);
 
      $.ajax({
-     	url: "../ajax/usuario.php?op=guardaryeditar",
+     	url: "../ajax/Usuario.php?op=guardaryeditar",
      	type: "POST",
      	data: formData,
      	contentType: false,
@@ -102,7 +102,7 @@ function guardaryeditar(e){
 }
 
 function mostrar(idusuario){
-	$.post("../ajax/usuario.php?op=mostrar",{idusuario : idusuario},
+	$.post("../ajax/Usuario.php?op=mostrar",{idusuario : idusuario},
 		function(data,status)
 		{
 			data=JSON.parse(data);
@@ -125,7 +125,7 @@ function mostrar(idusuario){
 
 
 		});
-	$.post("../ajax/usuario.php?op=permisos&id="+idusuario, function(r){
+	$.post("../ajax/Usuario.php?op=permisos&id="+idusuario, function(r){
 	$("#permisos").html(r);
 });
 }
@@ -135,7 +135,7 @@ function mostrar(idusuario){
 function desactivar(idusuario){
 	bootbox.confirm("¿Esta seguro de desactivar este dato?", function(result){
 		if (result) {
-			$.post("../ajax/usuario.php?op=desactivar", {idusuario : idusuario}, function(e){
+			$.post("../ajax/Usuario.php?op=desactivar", {idusuario : idusuario}, function(e){
 				bootbox.alert(e);
 				tabla.ajax.reload();
 			});
@@ -146,7 +146,7 @@ function desactivar(idusuario){
 function activar(idusuario){
 	bootbox.confirm("¿Esta seguro de activar este dato?" , function(result){
 		if (result) {
-			$.post("../ajax/usuario.php?op=activar", {idusuario : idusuario}, function(e){
+			$.post("../ajax/Usuario.php?op=activar", {idusuario : idusuario}, function(e){
 				bootbox.alert(e);
 				tabla.ajax.reload();
 			});
