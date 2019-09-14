@@ -3,7 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/Librerias-PDF/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/Librerias-PDF/vendor/firephp/firephp-core" />
+      <excludeFolder url="file://$MODULE_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb" />
       <excludeFolder url="file://$MODULE_DIR$/Librerias-PDF/vendor/spipu/html2pdf" />
+      <excludeFolder url="file://$MODULE_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination" />
       <excludeFolder url="file://$MODULE_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf" />
     </content>
     <orderEntry type="inheritedJdk" />

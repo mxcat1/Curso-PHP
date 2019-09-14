@@ -15,14 +15,5 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="SQL Server (Microsoft) - @localhost" uuid="31f17a98-f509-4ee7-bd2a-ab4b27f1417b">
-      <driver-ref>sqlserver.ms</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://localhost\.:1736</jdbc-url>
-      <driver-properties>
-        <property name="applicationName" value="DataGrip" />
-      </driver-properties>
-    </data-source>
   </component>
 </project>

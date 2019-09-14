@@ -2,598 +2,247 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f2debc3-5ad2-4320-8e33-d8e424035584" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/parapdf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/barcode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/basic.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/bookmark.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/cert.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/exception.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/extension.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/font.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/install.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/methods.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/output.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/page.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/res/margins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/svg.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/doc/tcpdf_methods.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/balloon.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/bookmark.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example00.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example01.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example02.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example03.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example04.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example05.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example06.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example07.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example08.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example09.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example10.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example11.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example12.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example13.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/example14.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/forms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/groups.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/measure.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/qrcode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/radius.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/balloon.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/bas_page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/bookmark.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example00.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example01.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example02.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example03.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example04.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example05.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example06.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example06.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example07a.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example07b.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example08.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example09.png.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example10.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example10a.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example10b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example10c.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example11.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example12.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example13.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/example14.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/forms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/groups.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/measure.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/measure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/puce.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/puce2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/qrcode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/radius.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/svg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/svg_tiger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/svg_tree.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/tcpdf_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/res/ticket.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/svg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/svg_tiger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/svg_tree.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/ticket.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/examples/utf8.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/CssConverter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Debug/Debug.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Debug/DebugInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Exception/ExceptionFormatter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Exception/Html2PdfException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Exception/HtmlParsingException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Exception/ImageException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Exception/LocaleException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Exception/LongSentenceException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Exception/TableException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Extension/AbstractExtension.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Extension/Core/HtmlExtension.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Extension/Core/SvgExtension.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Extension/ExtensionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Html2Pdf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Locale.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/MyPdf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Parsing/Css.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Parsing/Html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Parsing/HtmlLexer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Parsing/Node.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Parsing/TagParser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Parsing/TextParser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Parsing/Token.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/SvgDrawer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/AbstractHtmlTag.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/AbstractSvgTag.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/AbstractTag.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Address.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Big.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Bookmark.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Cite.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Del.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Em.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Font.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/I.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Ins.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Label.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/S.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Samp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Small.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Span.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Strong.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Sub.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/Sup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Html/U.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Svg/Circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Svg/Ellipse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Svg/G.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Svg/Line.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Svg/Path.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Svg/Polygon.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Svg/Polyline.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/Svg/Rect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tag/TagInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/AbstractTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/CssConverterTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Debug/DebugTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/ExamplesTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Exception/ExceptionFormatterTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Exception/LongSentenceExceptionTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Html2PdfTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Image/BackgroundErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Image/BackgroundOkTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Image/SrcErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Image/SrcOkTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Image/res/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/LocaleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Output/FileNameTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Parsing/HtmlLexerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Parsing/HtmlTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Parsing/ParsingTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Parsing/TagParserTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Parsing/TextParserTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Parsing/TokenTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/SvgDrawerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/DivTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/MustHaveTagsTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/Svg/CircleErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/Svg/EllipseErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/Svg/GErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/Svg/LineErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/Svg/PathErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/Svg/PathInvalidTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/Svg/PolygonErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/Svg/PolylineErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/Svg/RectErrorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/Tests/Tag/TdTooLongTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/config/tcpdf.config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/ca.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/cs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/da.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/de.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/en.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/es.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/fi.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/fr.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/it.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/nl.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/no.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/pl.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/pt.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/ru.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/src/locale/tr.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf/test/generate.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/CHANGELOG.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/config/tcpdf_config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_1d_html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_1d_png.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_1d_svg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_1d_svgi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_datamatrix_html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_datamatrix_png.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_pdf417_html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_pdf417_png.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_pdf417_svg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_qrcode_html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_qrcode_png.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_qrcode_svg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/tcpdf_barcodes_1d_include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/barcodes/tcpdf_barcodes_2d_include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/config/tcpdf_config_alt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/data/cert/tcpdf.crt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/data/cert/tcpdf.fdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/data/cert/tcpdf.p12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/data/chapter_demo_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/data/chapter_demo_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/data/table_data_demo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/data/utf8test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_001.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_002.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_003.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_004.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_005.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_006.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_007.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_008.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_009.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_010.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_011.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_012.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_012.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_013.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_014.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_015.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_016.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_017.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_018.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_019.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_020.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_021.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_022.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_023.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_024.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_025.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_026.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_027.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_028.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_029.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_030.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_031.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_032.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_033.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_034.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_035.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_036.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_037.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_038.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_039.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_040.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_041.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_042.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_043.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_044.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_045.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_046.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_047.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_048.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_049.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_050.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_051.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_052.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_053.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_054.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_055.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_056.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_057.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_058.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_059.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_060.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_061.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_062.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_063.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_064.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/example_065.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/_blank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/alpha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/image_demo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/image_with_alpha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/logo_example.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/logo_example.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/logo_example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/tcpdf_box.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/tcpdf_box.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/tcpdf_cell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/tcpdf_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/tcpdf_signature.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/testsvg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/images/tux.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/afr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/ara.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/aze.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/bel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/bra.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/bul.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/cat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/ces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/chi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/cym.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/dan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/eng.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/est.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/eus.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/far.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/fra.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/ger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/gle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/glg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/hat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/heb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/hrv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/hun.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/hye.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/ind.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/ita.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/jpn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/kat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/kor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/mkd.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/mlt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/msa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/nld.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/nob.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/pol.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/por.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/ron.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/rus.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/slv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/spa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/sqi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/srp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/swa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/swe.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/ukr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/urd.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/yid.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/lang/zho.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/examples/tcpdf_include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/ae_fonts_2.0/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/ae_fonts_2.0/ChangeLog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/ae_fonts_2.0/ChangeLog.9745.BAK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/ae_fonts_2.0/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/aealarabiya.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/aealarabiya.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/aealarabiya.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/aefurat.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/aefurat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/aefurat.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/cid0cs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/cid0ct.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/cid0jp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/cid0kr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/courier.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/courierb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/courierbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/courieri.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.33/AUTHORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.33/BUGS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.33/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.33/NEWS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.33/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.33/langcover.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.33/status.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.33/unicover.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.34/AUTHORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.34/BUGS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.34/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.34/NEWS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.34/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.34/langcover.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.34/status.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavu-fonts-ttf-2.34/unicover.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusans.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusans.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusans.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansb.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansb.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansbi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansbi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensed.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensed.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensed.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensedb.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensedb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensedb.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensedbi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensedbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensedbi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensedi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensedi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusanscondensedi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansextralight.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansextralight.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansextralight.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmono.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmono.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmono.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmonob.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmonob.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmonob.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmonobi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmonobi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmonobi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmonoi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmonoi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavusansmonoi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserif.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserif.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserif.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifb.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifb.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifbi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifbi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensed.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensed.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensed.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensedb.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensedb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensedb.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensedbi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensedbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensedbi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensedi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensedi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifcondensedi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/dejavuserifi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20100919/AUTHORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20100919/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20100919/CREDITS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20100919/ChangeLog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20100919/INSTALL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20100919/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20120503/AUTHORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20120503/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20120503/CREDITS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20120503/ChangeLog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20120503/ChangeLog.10070.BAK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20120503/INSTALL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20120503/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20120503/TROUBLESHOOTING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freefont-20120503/USAGE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemono.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemono.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemono.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemonob.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemonob.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemonob.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemonobi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemonobi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemonobi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemonoi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemonoi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freemonoi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesans.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesans.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesans.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesansb.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesansb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesansb.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesansbi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesansbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesansbi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesansi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesansi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freesansi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserif.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserif.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserif.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserifb.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserifb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserifb.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserifbi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserifbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserifbi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserifi.ctg.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserifi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/freeserifi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/helvetica.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/helveticab.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/helveticabi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/helveticai.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/hysmyeongjostdmedium.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/kozgopromedium.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/kozminproregular.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/msungstdlight.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfacourier.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfacourier.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfacourierb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfacourierb.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfacourierbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfacourierbi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfacourieri.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfacourieri.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfahelvetica.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfahelvetica.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfahelveticab.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfahelveticab.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfahelveticabi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfahelveticabi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfahelveticai.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfahelveticai.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfasymbol.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfasymbol.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfatimes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfatimes.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfatimesb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfatimesb.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfatimesbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfatimesbi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfatimesi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfatimesi.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfazapfdingbats.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/pdfazapfdingbats.z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/stsongstdlight.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/symbol.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/times.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/timesb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/timesbi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/timesi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/uni2cid_ac15.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/uni2cid_ag15.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/uni2cid_aj16.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/uni2cid_ak12.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/fonts/zapfdingbats.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/barcodes/datamatrix.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/barcodes/pdf417.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/barcodes/qrcode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/sRGB.icc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/tcpdf_colors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/tcpdf_filters.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/tcpdf_font_data.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/tcpdf_fonts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/tcpdf_images.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/include/tcpdf_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/tcpdf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/tcpdf_autoconfig.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/tcpdf_barcodes_1d.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/tcpdf_barcodes_2d.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/tcpdf_import.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/tcpdf_parser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/tools/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/tools/convert_fonts_examples.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf/tools/tcpdf_addfont.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad/storage_v2/_src_/schema/bd_sis_inte.1bPglw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad/storage_v2/_src_/schema/bdferreteria.dR1Scw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad/storage_v2/_src_/schema/biblioteca.xk4CIw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad/storage_v2/_src_/schema/phpmyadmin.q9h56A.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/Depurar/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/Manipular_Imagenes/ballena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/Manipular_Imagenes/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/paginacion/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/examples/oo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/examples/procedural.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/lib/FirePHPCore/FirePHP.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/lib/FirePHPCore/FirePHP_TestWrapper.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/lib/FirePHPCore/fb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Deprecation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/01-Logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/02-Dumping.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/03-Labels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/04-Options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/05-RecursiveEncoding.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/06-Newlines.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/07-EncoderOptions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/08-Primitives.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/09-Wrappers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/10-IgnoreInTraces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/10-IgnoreInTraces_TestWrapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/11-Groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Features/12-FB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/Issues.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core/tests/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/crop_basic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/crop_basic_fromstring.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/crop_fromcenter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/reflection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/remote_image_resize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/resize_adaptive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/resize_basic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/resize_percentage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/rotate_advanced.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/rotate_basic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/save_differentformat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/examples/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/src/PHPThumb/GD.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/src/PHPThumb/PHPThumb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/src/PHPThumb/PluginInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/src/PHPThumb/Plugins/Reflection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/tests/PHPThumb/GDTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/tests/PHPThumb/LoadTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/tests/resources/test.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/tests/resources/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb/tests/resources/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/Zebra_Pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/examples/countries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/examples/example1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/examples/example2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/examples/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/public/css/larrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/public/css/rarrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/public/css/zebra_pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/public/javascript/zebra_pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/public/javascript/zebra_pagination.src.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Curso-PHP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-PHP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/COMPUVENTAS.TZqbkA/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/NT_SERVICE_ReportServer_MXCATMSBD.J7U4KA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/RSExecRole.CJpGzw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBD.Zsb_Dg/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/NT_SERVICE_ReportServer_MXCATMSBD.J7U4KA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/RSExecRole.CJpGzw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/ReportServer_MXCATMSBDTempDB.WHVoTg/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/bd_sis_inte.1bPglw/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/NT_SERVICE_ReportServer_MXCATMSBD.J7U4KA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/RSExecRole.CJpGzw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/model.KfszBg/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/DatabaseMailUserRole.8_5cew.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/NT_SERVICE_ReportServer_MXCATMSBD.J7U4KA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/RSExecRole.CJpGzw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/SQLAgentOperatorRole.0TKOXA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/SQLAgentReaderRole.MDWBQA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/SQLAgentUserRole.-G0QHw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/TargetServersRole.tedgoQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ssisadmin.hKdIaQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ssisltduser.nKx1mg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ssisoperator.TxzNGQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/msdb.pEgzAA/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/pruebas.wobi7Q/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_accessadmin.KqpDJg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_backupoperator.R9Ifpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_datareader.To823g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_datawriter._tp55w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_ddladmin.hGWOrg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_denydatareader.2lWItw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_denydatawriter.iqHLwA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_owner.souIfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_securityadmin.Dj5jKg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/guest.2C3iBQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/31f17a98-f509-4ee7-bd2a-ab4b27f1417b/storage_v2/_src_/database/tempdb.Uqu0yw/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad/storage_v2/_src_/schema/dbsistema.5NMSLA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad/storage_v2/_src_/schema/dbsistema.5NMSLA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6a589a4f-cea8-475a-b6be-de0cb44307ad/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librerias-PDF/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Librerias-PDF/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librerias-PDF/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Librerias-PDF/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/Librerias-PDF/vendor/composer/installed.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -618,25 +267,39 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="onexamdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="onexamdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="assesmenttbl: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/index.php">
+        <entry file="file://$PROJECT_DIR$/Librerias-PDF/Depurar/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/parapdf.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="161">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -669,6 +332,9 @@
         <option value="$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/prueba.php" />
         <option value="$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/parapdf.html" />
         <option value="$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/index.php" />
+        <option value="$PROJECT_DIR$/Librerias-PDF/paginacion/index.php" />
+        <option value="$PROJECT_DIR$/Librerias-PDF/Manipular_Imagenes/index.php" />
+        <option value="$PROJECT_DIR$/Librerias-PDF/Depurar/index.php" />
       </list>
     </option>
   </component>
@@ -687,6 +353,9 @@
       <path value="$PROJECT_DIR$/Librerias-PDF/vendor/tecnickcom/tcpdf" />
       <path value="$PROJECT_DIR$/Librerias-PDF/vendor/composer" />
       <path value="$PROJECT_DIR$/Librerias-PDF/vendor/spipu/html2pdf" />
+      <path value="$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination" />
+      <path value="$PROJECT_DIR$/Librerias-PDF/vendor/masterexploder/phpthumb" />
+      <path value="$PROJECT_DIR$/Librerias-PDF/vendor/firephp/firephp-core" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -716,7 +385,7 @@
               <item name="Curso-PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso-PHP" type="462c0819:PsiDirectoryNode" />
               <item name="Librerias-PDF" type="462c0819:PsiDirectoryNode" />
-              <item name="GENERAR_PDF" type="462c0819:PsiDirectoryNode" />
+              <item name="Depurar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -734,10 +403,14 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="C:/wamp64/www/Curso-PHP" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Librerias-PDF/Manipular_Imagenes" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MAXCATMXCAT\Progracion_Cursos\Curso-PHP\Librerias-PDF\Manipular_Imagenes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\MAXCATMXCAT\Progracion_Cursos\Curso-PHP\Repaso MVC PHP\views" />
       <recent name="F:\MAXCATMXCAT\Progracion_Cursos\Curso-PHP\Repaso MVC PHP\models" />
@@ -778,7 +451,9 @@
       <workItem from="1566964111506" duration="369000" />
       <workItem from="1566964838868" duration="165000" />
       <workItem from="1566965006330" duration="16000" />
-      <workItem from="1566965286832" duration="479000" />
+      <workItem from="1566965286832" duration="796000" />
+      <workItem from="1567044667152" duration="1813000" />
+      <workItem from="1568496175942" duration="3176000" />
     </task>
     <task id="LOCAL-00001" summary="aprendiendo algo nuevo">
       <created>1566788382849</created>
@@ -787,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566788382849</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="configurando servidor local y despliege&#10;con la libreria de html2 pdf">
+      <created>1566965950066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566965950066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23011000" />
+    <option name="totallyTimeSpent" value="28317000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -804,9 +486,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28993186" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28916544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -820,13 +501,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32871974" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32871974" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32871974" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32833335" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32871974" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32871974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="3" weight="0.329296" />
       <window_info anchor="right" id="Remote Host" order="4" weight="0.21785174" />
     </layout>
   </component>
@@ -834,8 +516,10 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="aprendiendo algo nuevo" />
-    <option name="LAST_COMMIT_MESSAGE" value="aprendiendo algo nuevo" />
+    <MESSAGE value="configurando servidor local y despliege&#10;con la libreria de html2 pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="configurando servidor local y despliege&#10;con la libreria de html2 pdf" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/coneccion con sql server/coneccion.php">
@@ -1038,13 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Librerias-PDF/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Librerias-PDF/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-828" />
@@ -1060,24 +737,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/prueba.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/prueba.php" />
     <entry file="file://$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/parapdf.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="115">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Librerias-PDF/GENERAR_PDF/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="207">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6a589a4f-cea8-475a-b6be-de0cb44307ad/schema/onexamdb/table/noticetbl">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="e537436d-088e-4355-82e0-56aeefb9b7ff">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6a589a4f-cea8-475a-b6be-de0cb44307ad/schema/sistema_academia/table/administrador">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="e537436d-088e-4355-82e0-56aeefb9b7ff">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6a589a4f-cea8-475a-b6be-de0cb44307ad/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://6a589a4f-cea8-475a-b6be-de0cb44307ad/schema/onexamdb/table/assesmenttbl">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="e537436d-088e-4355-82e0-56aeefb9b7ff">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Librerias-PDF/vendor/stefangabos/zebra_pagination/examples/example1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="215" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Librerias-PDF/paginacion/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Librerias-PDF/Manipular_Imagenes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Librerias-PDF/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Librerias-PDF/Depurar/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
